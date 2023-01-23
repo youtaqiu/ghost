@@ -1,8 +1,8 @@
-# Ghost example
+# Ghost on Railway
 
-This example deploys self-hosted version of [Ghost](https://ghost.org/). Internally it uses a MySQL database to store the data.
+This template deploys a self-hosted version of [Ghost](https://ghost.org/) on Railway. Internally it uses a MySQL database to store the data.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ghost)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/J62MAK?referralCode=alphasec)
 
 ## ✨ Features
 
