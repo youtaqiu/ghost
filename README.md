@@ -1,6 +1,6 @@
 # Ghost on Railway
 
-This template deploys a self-hosted version of [Ghost](https://ghost.org/) on Railway. Internally it uses a MySQL database to store the data.
+This template deploys a self-hosted version of [Ghost](https://ghost.org/) on Railway. Internally it uses a MySQL database to store the data. For a step-by-step guide, see [this](https://alphasec.io/how-to-set-up-your-own-blog-using-ghost-on-railway/) post.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/J62MAK?referralCode=alphasec)
 
